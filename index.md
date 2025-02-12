@@ -6,6 +6,10 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
+[Link to M-0](./Exp00_LearnToLab.html).
+
+[Link to M-1](./Exp01_VectorTable.html).
+
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
