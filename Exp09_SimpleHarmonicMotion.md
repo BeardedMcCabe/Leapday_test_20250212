@@ -56,7 +56,7 @@ time *t* = 0, we can determine how the mass will move as a function of
 time under the influence of the restoring force *F*(*x*). Using Newton’s
 Second Law and the definition of the acceleration *a*, we can write
 $$\\label{eq:M09fx}
-  F(x) = m\\, a = m \\frac{{\\rm d}^{2}x}{{\\rm d} t^{2}} = -k x.$$
+  F(x) = m\\, a = m \\frac{{\\text{d}}^{2}x}{{\\text{d}} t^{2}} = -k x.$$
 In order to find a solution to this equation, we need to find a function
 *x*(*t*) whose second derivative is the same as the function itself,
 give or take a constant or two. One such function *x*(*t*) is
