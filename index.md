@@ -10,6 +10,8 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to M-00](./Exp01_LearnToLab_Copy.html).
 
+[Link to Video 1](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
+
 
 There should be whitespace between paragraphs.
 
